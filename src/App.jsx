@@ -14,7 +14,7 @@ function App() {
         <div className="about">
           <h2>Hakkımda</h2>
           <p>
-            Teknolojiye ve yazılıma meraklıyım. Bu sayfa, Vite ve React ile
+            Yazılım geliştiriciyim. Bu sayfa, Vite ve React ile
             hazırladığım ilk projem. Fikirleri hayata geçirmeyi, yeni araçlar
             denemeyi ve öğrendiklerimi paylaşmayı seviyorum.
           </p>
